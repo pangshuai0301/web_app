@@ -1,0 +1,7 @@
+venv/
+
+*.pyc
+*.log
+*.rpm
+
+config.py
